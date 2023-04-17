@@ -410,7 +410,7 @@ form .resbtn{
 /************** MEDIA QUERIES ******************/
 @media only screen and (max-width: 990px) {
   .subtitle{
-    font-size: 30px;
+    font-size: 55px;
   }
   .header{
     height: 13%;
@@ -424,17 +424,29 @@ form .resbtn{
     margin-bottom: 30px;
   }
   .about-col-2{
-    font-size: 14px;
+    font-size: 28px;
+  }
+  .exo-2-font{
+    font-size: 28px;
   }
   .tab-links{
-    font-size: 16px;
+    font-size: 28px;
     margin-right: 20px;
+  }
+  .tab-contents{
+    font-size: 28px;
+  }
+  .tab-contents li span{
+    font-size: 28px;
   }
   .contact-leftside,.contact-rightside{
     flex-basis: 100%;
   }
   .copyright{
     font-size: 14px;
+  }
+  .med-size{
+    font-size: 23px;
   }
 
   .sticky{
@@ -453,9 +465,7 @@ form .resbtn{
     z-index: 1;
   }
 
-
 }
-
 #msg{
   color: #61b752;
   margin-top: -40px;
