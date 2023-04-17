@@ -408,7 +408,7 @@ form .resbtn{
 }
 
 /************** MEDIA QUERIES ******************/
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 990px) {
   .subtitle{
     font-size: 30px;
   }
